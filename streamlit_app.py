@@ -56,3 +56,5 @@ if url_input:
         strl.metric(label="🟦 מחסן חמצן רגיל (21% O₂)", value=f"{int(yrs_21)} שנים")
     with col2:
         strl.metric(label="🟩 מחסן מרודד חמצן (15% O₂)", value=f"{int(yrs_15)} שנים")
+
+reportlab
